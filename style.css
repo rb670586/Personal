@@ -359,10 +359,10 @@ li {
 	margin-bottom: 4rem;
 	display: flex;
 }
-.icon-container-express {
+.icon-container-python {
 	width: 10rem;
 	height: 10rem;
-	background: url('images/expressjs.png') center;
+	background: url('images/pythonlogo.png') center;
 	background-size: contain;
 	margin-bottom: 4rem;
 	display: flex;
